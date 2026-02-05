@@ -7,11 +7,13 @@ Statistics and Computing.
 ---
 
 
-## 🔗 Quick Access
+🔗 Quick Access
 
-- 🌐 Web version (GitHub Pages): https://franksalomon.github.io/Machine-Learning-Models/
-- 📓 Notebook: notebooks/customer_satisfaction_analysis.ipynb
-- 📄 PDF report: report/MD_satisfaccion_bancaria_entregable.pdf
+📓 Main Notebook:
+https://github.com/franksalomon/Machine-Learning-Models/blob/main/notebooks/index.ipynb
+
+📄 PDF Report:
+report/MD_satisfaccion_bancaria_entregable.pdf
 
   
 ---
