@@ -1,9 +1,19 @@
-# Customer Satisfaction Prediction — Banking Dataset (Academic Project)
+# Customer Satisfaction Prediction — Banking Dataset 
 
 Predicting customer satisfaction (scale 1–4) using supervised machine learning models.
 This project was developed during my Master's degree in Mathematical Modeling,
 Statistics and Computing.
 
+---
+
+
+## 🔗 Quick Access
+
+- 🌐 Web version (GitHub Pages): https://franksalomon.github.io/Machine-Learning-Models/
+- 📓 Notebook: notebooks/customer_satisfaction_analysis.ipynb
+- 📄 PDF report: report/MD_satisfaccion_bancaria_entregable.pdf
+
+  
 ---
 
 ## Problem Statement
